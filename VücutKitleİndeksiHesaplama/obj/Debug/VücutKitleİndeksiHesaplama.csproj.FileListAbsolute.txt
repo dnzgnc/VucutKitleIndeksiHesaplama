@@ -1,0 +1,9 @@
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\bin\Debug\VücutKitleİndeksiHesaplama.exe.config
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.csprojResolveAssemblyReference.cache
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.Form1.resources
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.Properties.Resources.resources
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.csproj.GenerateResource.Cache
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\bin\Debug\VücutKitleİndeksiHesaplama.exe
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\bin\Debug\VücutKitleİndeksiHesaplama.pdb
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.exe
+c:\users\deniz\documents\visual studio 2015\Projects\VücutKitleİndeksiHesaplama\VücutKitleİndeksiHesaplama\obj\Debug\VücutKitleİndeksiHesaplama.pdb
